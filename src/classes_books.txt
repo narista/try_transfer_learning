@@ -1,0 +1,5 @@
+ai_children
+deep_learning
+zero_deep_learning
+machine_learing
+db_specialist
